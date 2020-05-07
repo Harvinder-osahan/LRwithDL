@@ -1,1 +1,2 @@
 Linear Regression model ()[Dy = b + W1*X[D[D[D[3~[3~[[[[3~[C[C *x) using a single Perceptron
+using a single i/p layer for weight neuron for calculation and one o/p layer
